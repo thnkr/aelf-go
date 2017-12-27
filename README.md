@@ -1,6 +1,6 @@
 [![Build Status][1]][2] 
-[1]: https://travis-ci.org/xtaci/kcptun.svg?branch=master
-[2]: https://travis-ci.org/xtaci/kcptun
+[1]: https://travis-ci.org/AElfProject/AElf.svg?branch=master
+[2]: https://travis-ci.org/AElfProject/AElf
 
 # aelf-go
 
